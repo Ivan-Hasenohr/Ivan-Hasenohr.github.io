@@ -29,7 +29,7 @@ Chargé de TD Analyse 3 (License 2 Maths-Info): [Moodle](https://moodle.u-paris.
 
 Chercheur associé à deux ateliers (Collège Simone de Beauvoir, Créteil, et Collège Jean Macé, Fontenay-Sous-Bois).
 
-Sujet *En pleine mer* : [pdf](https://ivan-hasenohr.github.io/assets/pdf/240900_MeJ_En_pleine_mer.pdf) 
+Sujet *En pleine mer* : [sujet](https://ivan-hasenohr.github.io/assets/pdf/240900_MeJ_En_pleine_mer.pdf) 
 
-Sujet *Morpion sur des pavages réguliers* : [pdf](https://ivan-hasenohr.github.io/assets/pdf/240900_MeJ_Morpion_sur_des_pavages_reguliers.pdf)
+Sujet *Morpion sur des pavages réguliers* : [sujet](https://ivan-hasenohr.github.io/assets/pdf/240900_MeJ_Morpion_sur_des_pavages_reguliers.pdf)
 
