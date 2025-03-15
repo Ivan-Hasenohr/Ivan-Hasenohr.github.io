@@ -23,6 +23,8 @@ Chargé de TD Analyse 4 (License 2 Maths-Info): [Moodle](https://moodle.u-paris.
 Chargé de TD Analyse 3 (License 2 Maths-Info): [Moodle](https://moodle.u-paris.fr/enrol/index.php?id=2372).
 
 
+
+
 ### MATh.en.JEANS 2024-2025
 
 Chercheur associé à deux ateliers (Collège Simone de Beauvoir, Créteil, et Collège Jean Macé, Fontenay-Sous-Bois).
