@@ -6,7 +6,9 @@
     - name: Date of Birth
       value: 18th December 2000
     - name: Languages
-      value: English, French, Matlab, Python, LaTeX
+      value: English, French
+    - name: Code
+      value: Matlab, Pyhon, LaTeX
     - name: Contact
       value: ivan.hasenohr 'at' math.cnrs 'dot' fr
 
