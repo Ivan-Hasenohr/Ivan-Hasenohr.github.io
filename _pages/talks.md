@@ -15,8 +15,7 @@ nav_order: 6
   *Computer-assisted proofs of non-reachability for linear parabolic control systems*
   [slides](https://ivan-hasenohr.github.io/assets/pdf/241028_CJC_MA.pdf). 
 
-- 31/05/2024 Congrès National d'Analyse Numérique, Ile de Ré
-  Mini-symposium Contrôle constructif : méthodes et applications : *Preuves assistées par ordinateur de non-atteignabilité pour des systèmes linéaires de contrôle en dimension finie*
+- 31/05/2024 Congrès National d'Analyse Numérique, Ile de Ré. Mini-symposium Contrôle constructif : méthodes et applications : *Preuves assistées par ordinateur de non-atteignabilité pour des systèmes linéaires de contrôle en dimension finie*
   [slides](https://ivan-hasenohr.github.io/assets/pdf/240531_CANUM.pdf). 
 
 - 17/05/2024 Séminaire des Doctorants, MAP5
