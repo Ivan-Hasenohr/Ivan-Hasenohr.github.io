@@ -7,6 +7,10 @@ nav: true
 nav_order: 6
 ---
 
+- 28/04/2025 MR-DYNAMO Seminar, University of Graz, Austria
+  *Computer-Assisted Proofs of Non-Reachability for Linear Parabolic Control Problems with Bounded Constraints* 
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/250428_Graz.pdf).
+
 - 14/01/2025 Journée du Groupe de Travail Modélisation, Analyse et Simulation, IHP, Paris
 
   With Camille Pouchol : *Méthodes de séparation pour l’atteignabilité de systèmes de contrôle linéaires sous contraintes*.
