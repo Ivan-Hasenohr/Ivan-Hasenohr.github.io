@@ -26,6 +26,7 @@
           contents:
             - Camille Pouchol (Maître de Conférences, MAP5, Université Paris Cité)
             - Yannick Privat (Professeur des universités at IECL, Université de Lorraine)
+            - Christophe Zhang (Guest researcher at INRIA Nancy, SPHINX, IECL, Université de Lorraine)
     
     - title: Masters Degree
       institution: Mathématiques de la modélisation, Sorbonne Université
@@ -43,6 +44,7 @@
         - Statistics
         - Image processing
         - Modelisation
+        - Inverse problems
         
     - title: Bachelor's Degree in Mathematics and Computer Sciences 
       institution: Sorbonne Université
@@ -81,4 +83,5 @@
   contents:
     - Music (piano, oboe, choirs)
     - Reading (SF, Litterature)
-    - Cheese
+    - Traveling 
+    - French cheese

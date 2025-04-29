@@ -15,13 +15,11 @@ nav_order: 6
 
   With Camille Pouchol : *Méthodes de séparation pour l’atteignabilité de systèmes de contrôle linéaires sous contraintes*.
   
-- 28/10/2024 Congrès des Jeunes Chercheurs en Mathématiques Appliquées, ENS Lyon
+- 28/10/2024 __Congrès des Jeunes Chercheurs en Mathématiques Appliquées__, ENS Lyon
   *Computer-assisted proofs of non-reachability for linear parabolic control systems*
   [slides](https://ivan-hasenohr.github.io/assets/pdf/241028_CJC_MA.pdf). 
 
-- 31/05/2024 Congrès National d'Analyse Numérique, Ile de Ré
-
-  *Preuves assistées par ordinateur de non-atteignabilité pour des systèmes linéaires de contrôle en dimension finie*
+- 31/05/2024 __Congrès National d'Analyse Numérique__, Ile de Ré. Mini-symposium __Contrôle constructif : méthodes et applications__ : *Preuves assistées par ordinateur de non-atteignabilité pour des systèmes linéaires de contrôle en dimension finie*
   [slides](https://ivan-hasenohr.github.io/assets/pdf/240531_CANUM.pdf). 
 
 - 17/05/2024 Séminaire des Doctorants, MAP5
@@ -34,12 +32,12 @@ nav_order: 6
   *Computer-assisted methods for rigorous description of reachable sets in constrained linear control problems*
   [slides](https://ivan-hasenohr.github.io/assets/pdf/231117_GTMAS.pdf). 
 
-- 25/09/2023 Congrès des Jeunes Chercheurs en Mathématiques Appliquées, Centrale-Supélec, Gif-Sur-Yvette
+- 25/09/2023 __Congrès des Jeunes Chercheurs en Mathématiques Appliquées__, Centrale-Supélec, Gif-Sur-Yvette
   
   *Rigorous approximations of reachable sets*
   [poster](https://ivan-hasenohr.github.io/assets/pdf/230925_CJC_MA_poster.pdf). 
 
-- 19/06/2023 ANR TRECOS, Rennes
+- 19/06/2023 Workshop de l'__ANR TRECOS__, Rennes
 
   *Méthodes assistées par ordinateur pour la description rigoureuse d’ensembles atteignables de problèmes linéaires contraints*
   [slides](https://ivan-hasenohr.github.io/assets/pdf/230619_TRECOS.pdf). 
