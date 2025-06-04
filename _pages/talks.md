@@ -7,6 +7,12 @@ nav: true
 nav_order: 6
 ---
 
+
+- 02/06/2025 12ème Biennale SMAI, Carcans-Maubuisson
+
+  *Computer-Assisted Proofs of Non-Reachability for Linear Parabolic Control Problems with Bounded Constraints* 
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/250602_SMAI.pdf).
+
 - 28/04/2025 MR-DYNAMO Seminar, University of Graz, Austria
 
   *Computer-Assisted Proofs of Non-Reachability for Linear Parabolic Control Problems with Bounded Constraints* 
