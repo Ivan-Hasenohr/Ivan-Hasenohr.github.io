@@ -65,7 +65,8 @@
       year: 2022
       description:
         - Méthodes d’analyse convexe pour la contrôlabilité sous contraintes en dimension finie
-        - title: Under the supervision of <a href = https://poucholcamille.wixsite.com/perso /> Camille Pouchol </a>
+        - title: Under the supervision of 
+          contents: <a href = https://poucholcamille.wixsite.com/perso /> Camille Pouchol </a>
 
 - title: Academic Interests
   type: list
