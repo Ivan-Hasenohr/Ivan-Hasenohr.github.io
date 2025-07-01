@@ -18,7 +18,7 @@ Chargé de TD Maths et Calcul 1 (License 1 Maths-Info): [Moodle](https://moodle.
 
 Chargé de TD Analyse 4 (License 2 Maths-Info): [Moodle](https://moodle.u-paris.fr/enrol/index.php?id=2366).
 
-#### Analyse 3 2022-2024
+### Analyse 3 2022-2024
 
 Chargé de TD Analyse 3 (License 2 Maths-Info): [Moodle](https://moodle.u-paris.fr/enrol/index.php?id=2372).
 
