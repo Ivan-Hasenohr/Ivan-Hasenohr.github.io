@@ -20,4 +20,4 @@ I am a currently a third year PhD student under the supervision of [Camille Pouc
 
 During my PhD, I have studied control theory, more specifically reachability analysis. Using convex analysit tools, numerical analysis and interval arithmetic I have developped computer-assisted proofs of non-reachability for linear control systems, either for ODEs or parabolic PDEs. 
 
-Starting January 2026, I will be a postdoctoral researcher in the [IdCONTROL](https://imsc.uni-graz.at/mr-dynamo/projects/idcontrol) project of the [MR-DYNAMO](https://imsc.uni-graz.at/mr-dynamo), working with [Barbara Kaltenbacher](https://me.aau.at/~bkaltenb) in the [University of Klagenfurt](https://www.aau.at/en/mathematics).
+Starting January 2026, I will be a postdoctoral researcher part of the [IdCONTROL subproject](https://imsc.uni-graz.at/mr-dynamo/projects/idcontrol) of the [MR-DYNAMO](https://imsc.uni-graz.at/mr-dynamo) Austrian-funded project, working with [Barbara Kaltenbacher](https://me.aau.at/~bkaltenb) at the University of Klagenfurt's [department of mathematics](https://www.aau.at/en/mathematics).
