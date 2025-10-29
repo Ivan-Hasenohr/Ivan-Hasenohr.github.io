@@ -16,8 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-PhD student under the supervision of [Camille Pouchol](https://poucholcamille.wixsite.com/perso), [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr) and [Christophe Zhang](https://christophezhang.netlify.app). 
+I am a currently a third year PhD student under the supervision of [Camille Pouchol](https://poucholcamille.wixsite.com/perso), [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr) and [Christophe Zhang](https://christophezhang.netlify.app), at the [MAP5 laboratory](https://map5.mi.parisdescartes.fr) in Paris. 
 
-I study control theory, more specifically reachability analysis using computer-assisted proofs of reachability based on convex analysis and discretisation schemes. 
+During my PhD, I have studied control theory, more specifically reachability analysis. Using convex analysit tools, numerical analysis and interval arithmetic I have developped computer-assisted proofs of non-reachability for linear control systems, either for ODEs or parabolic PDEs. 
 
-
+Starting January 2026, I will be a postdoctoral researcher in the [IdCONTROL](https://imsc.uni-graz.at/mr-dynamo/projects/idcontrol) project of the [MR-DYNAMO](https://imsc.uni-graz.at/mr-dynamo), working with [Barbara Kaltenbacher](https://me.aau.at/~bkaltenb) in the [University of Klagenfurt](https://www.aau.at/en/mathematics).
