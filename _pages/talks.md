@@ -33,12 +33,12 @@ nav_order: 6
   [slides](https://ivan-hasenohr.github.io/assets/pdf/241028_CJC_MA.pdf). 
 
 - 31/05/2024 Congrès National d'Analyse Numérique, Ile de Ré. Mini-symposium Contrôle constructif : méthodes et applications : *Preuves assistées par ordinateur de non-atteignabilité pour des systèmes linéaires de contrôle en dimension finie*, 
-  [slides](https://ivan-hasenohr.github.io/assets/pdf/240531_CANUM.pdf). 
+  [slides (french)](https://ivan-hasenohr.github.io/assets/pdf/240531_CANUM.pdf). 
 
 - 17/05/2024 Séminaire des Doctorants, MAP5, Paris
 
   *Preuves assistées par ordinateur de non-atteignabilité pour des systèmes linéaires de contrôle en dimension finie*, 
-  [slides](https://ivan-hasenohr.github.io/assets/pdf/240517_GTE.pdf). 
+  [slides (french)](https://ivan-hasenohr.github.io/assets/pdf/240517_GTE.pdf). 
 
 - 17/11/2023 Groupe de Travail Modélisation, Analyse et Simulation, MAP5, Paris
 
