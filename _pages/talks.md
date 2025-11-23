@@ -8,6 +8,11 @@ nav_order: 6
 ---
 
 
+- 20/11/2025 PhD defence, MAP5, Paris
+
+ *Preuves assistées par ordinateur pour l'analyse d'atteignabilité de problèmes de contrôle linéaires sous contraintes bornées*
+  [slides (french)](https://ivan-hasenohr.github.io/assets/pdf/251120_PhD_defence.pdf).
+
 - 02/06/2025 12ème Biennale SMAI, Carcans-Maubuisson
 
   *Computer-Assisted Proofs of Non-Reachability for Linear Parabolic Control Problems with Bounded Constraints* 
@@ -30,12 +35,12 @@ nav_order: 6
 - 31/05/2024 Congrès National d'Analyse Numérique, Ile de Ré. Mini-symposium Contrôle constructif : méthodes et applications : *Preuves assistées par ordinateur de non-atteignabilité pour des systèmes linéaires de contrôle en dimension finie*
   [slides](https://ivan-hasenohr.github.io/assets/pdf/240531_CANUM.pdf). 
 
-- 17/05/2024 Séminaire des Doctorants, MAP5
+- 17/05/2024 Séminaire des Doctorants, MAP5, Paris
 
   *Preuves assistées par ordinateur de non-atteignabilité pour des systèmes linéaires de contrôle en dimension finie*
   [slides](https://ivan-hasenohr.github.io/assets/pdf/240517_GTE.pdf). 
 
-- 17/11/2023 Groupe de Travail Modélisation, Analyse et Simulation, MAP5
+- 17/11/2023 Groupe de Travail Modélisation, Analyse et Simulation, MAP5, Paris
 
   *Computer-assisted methods for rigorous description of reachable sets in constrained linear control problems*
   [slides](https://ivan-hasenohr.github.io/assets/pdf/231117_GTMAS.pdf). 
@@ -56,7 +61,7 @@ nav_order: 6
   [slides](https://ivan-hasenohr.github.io/assets/pdf/230421_DELABIE_slides.pdf),
   [rapport](https://ivan-hasenohr.github.io/assets/pdf/230608_DELABIE_rapport.pdf).
 
-- 18/11/2022 Séminaire des Doctorants, MAP5
+- 18/11/2022 Séminaire des Doctorants, MAP5, Paris
 
   *Convex analysis methods for finite-dimensional controllability under constraints*
   [slides](https://ivan-hasenohr.github.io/assets/pdf/221118_GTE.pdf). 
