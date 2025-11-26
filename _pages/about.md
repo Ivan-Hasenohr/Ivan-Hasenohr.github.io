@@ -16,8 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a currently a third year PhD student under the supervision of [Camille Pouchol](https://poucholcamille.wixsite.com/perso), [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr) and [Christophe Zhang](https://christophezhang.netlify.app), at the [MAP5 laboratory](https://map5.mi.parisdescartes.fr) in Paris. 
+I recently defended my PhD titled *Computer-assisted Proofs of Reachability Analysis for Linear Control Systems under Bounded Constraints* at the [MAP5 laboratory](https://map5.mi.parisdescartes.fr), in Université Paris Cité.
 
-During my PhD, I have studied control theory, more specifically reachability analysis. Using convex analysit tools, numerical analysis and interval arithmetic I have developped computer-assisted proofs of non-reachability for linear control systems, either for ODEs or parabolic PDEs. 
+My PhD, done under the wonderful supervision of [Camille Pouchol](https://poucholcamille.wixsite.com/perso), [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr) and [Christophe Zhang](https://christophezhang.netlify.app), was devoted to control theory, more specifically reachability analysis. Using convex analytic tools, numerical analysis and interval arithmetic I have developped computer-assisted proofs of non-reachability for linear control systems, for both ODEs or parabolic PDEs. You can find my thesis [here](https://ivan-hasenohr.github.io/assets/pdf/251120_PhD_thesis.pdf).
 
-Starting January 2026, I will be a postdoctoral researcher part of the [IdCONTROL](https://imsc.uni-graz.at/mr-dynamo/projects/idcontrol) subproject of the [MR-DYNAMO](https://imsc.uni-graz.at/mr-dynamo) Austrian-funded project, working with [Barbara Kaltenbacher](https://me.aau.at/~bkaltenb) at the University of Klagenfurt's [department of mathematics](https://www.aau.at/en/mathematics).
+Starting January 2026, I will be a postdoctoral researcher part of the [IdCONTROL](https://imsc.uni-graz.at/mr-dynamo/projects/idcontrol) subproject of the [MR-DYNAMO](https://imsc.uni-graz.at/mr-dynamo) Austrian-funded project, working with [Professor Barbara Kaltenbacher](https://me.aau.at/~bkaltenb) at the University of Klagenfurt's [department of mathematics](https://www.aau.at/en/mathematics).
