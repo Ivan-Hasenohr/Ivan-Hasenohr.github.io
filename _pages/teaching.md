@@ -8,28 +8,29 @@ nav_order: 5
 ---
 
 
-## Université Paris-Cité
+### Université Paris-Cité
 
-### MC1 2024-2025
+<br> 
 
-Chargé de TD Maths et Calcul 1 (License 1 Maths-Info): [Moodle](https://moodle.u-paris.fr/course/view.php?id=2351).
+#### Chargé de TDs
 
-### Analyse 4 2022-2024 
+<br>
 
-Chargé de TD Analyse 4 (License 2 Maths-Info): [Moodle](https://moodle.u-paris.fr/enrol/index.php?id=2366).
+Licence 1 Maths-Info (2024-2025) : 
+- Maths et Calcul 1.
 
-### Analyse 3 2022-2024
+<br>
 
-Chargé de TD Analyse 3 (License 2 Maths-Info): [Moodle](https://moodle.u-paris.fr/enrol/index.php?id=2372).
+Licence 2 Maths-Info (2022-2024) :
+- Analyse 3 (License 2 Maths-Info)
+- Analyse 4 (License 2 Maths-Info).
 
 
+<br>
+<br>
 
+### MATh.en.JEANS 2024-2025
 
-## MATh.en.JEANS 2024-2025
-
-Chercheur associé à deux ateliers (Collège Simone de Beauvoir, Créteil, et Collège Jean Macé, Fontenay-Sous-Bois).
-
-Sujet *En pleine mer* : [sujet](https://ivan-hasenohr.github.io/assets/pdf/240900_MeJ_En_pleine_mer.pdf) 
-
-Sujet *Morpion sur des pavages réguliers* : [sujet](https://ivan-hasenohr.github.io/assets/pdf/240900_MeJ_Morpion_sur_des_pavages_reguliers.pdf)
-
+#### Chercheur associé à deux ateliers jumelés :
+- Sujet [*En pleine mer*](https://ivan-hasenohr.github.io/assets/pdf/240900_MeJ_En_pleine_mer.pdf).
+- Sujet [*Morpion sur des pavages réguliers*](https://ivan-hasenohr.github.io/assets/pdf/240900_MeJ_Morpion_sur_des_pavages_reguliers.pdf).
