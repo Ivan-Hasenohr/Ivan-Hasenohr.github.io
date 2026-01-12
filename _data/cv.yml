@@ -12,11 +12,28 @@
     - name: Contact
       value: ivan.hasenohr 'at' math.cnrs 'dot' fr
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Post-Doctoral position
+      institution: Alpen-Adria University, Klagenfurt, Austria
+      year: 2026 -
+      description: Inverse problems for MRI
+    - title: PhD 
+      institution: MAP5, Université Paris-Cité, France
+      year: 2022 - 2025
+      description: Computer-assisted proofs of reachability analysis for linear control systems under bounded constraints
+
+    - title: Research Internship
+      institution: MAP5, Université Paris Cité
+      year: 2022
+      description: Convex analytic methods for constrained controllability in finite dimension
+
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: Université Paris-Cité, laboratoire MAP5
+      institution: MAP5, Université Paris-Cité, France
       year: 2022 - 2025
       description:
         - Control theory
@@ -27,9 +44,15 @@
             - <a href = https://poucholcamille.wixsite.com/perso /> Camille Pouchol </a> (Maître de Conférences, MAP5, Université Paris Cité)
             - <a href = https://yannick-privat.perso.math.cnrs.fr /> Yannick Privat </a> (Professeur des universités at IECL, Université de Lorraine)
             - <a href = https://christophezhang.netlify.app /> Christophe Zhang </a> (Guest researcher at INRIA Paris, CAGE, LJLL, Sorbonne Université)
+    - title: Research Internship
+      institution: MAP5, Université Paris Cité
+      year: 2022
+      description:
+        - Convex analytic methods for constrained controllability in finite dimension 
+        - Under the supervision of Camille Pouchol
     
     - title: Masters Degree
-      institution: Mathématiques de la modélisation, Sorbonne Université
+      institution: Mathématiques de la modélisation, Sorbonne Université, France
       year: 2022
       description:
         - Control Theory
@@ -37,7 +60,7 @@
         - Optimisation
       
     - title: Masters Degree (first year)
-      institution: Mathématiques, Modélisation et Apprentissage, Université Paris Cité
+      institution: Mathématiques, Modélisation et Apprentissage, Université Paris Cité, France
       year: 2021
       description:
         - Probability
@@ -46,11 +69,11 @@
         - Modelisation
         - Inverse problems
         
-    - title: Bachelor's Degree in Mathematics and Computer Sciences 
-      institution: Sorbonne Université
+    - title: Bachelor's Degree
+      institution: Mathematics and Computer Sciences, Sorbonne Université, France
       year: 2020
 
-- title: Experience
+- title: Responsibilities
   type: time_table
   contents:
     - title: Member of the Board of the MAP5 Laboratory
@@ -60,12 +83,6 @@
     - title: Co-oganiser of the <a href = https://map5.mi.parisdescartes.fr/events/journee-pour-les-debouches-dun-doctorat-en-mathematiques/> Journée sur les débouchés d'un doctorat en Mathématiques </a>
       institution: MAP5, Université Paris Cité
       year: June 3rd, 2023
-    - title: Research Internship
-      institution: MAP5, Université Paris Cité
-      year: 2022
-      description:
-        - Convex analytic methods for constrained controllability in finite dimension 
-        - Under the supervision of Camille Pouchol
 
 - title: Academic Interests
   type: list
@@ -73,7 +90,7 @@
     - Control theory
     - Fenchel duality
     - Certified computing
-    - Constants tracking in discretisation schemes
+    - Inverse problems
 
 - title: Other Interests
   type: list
