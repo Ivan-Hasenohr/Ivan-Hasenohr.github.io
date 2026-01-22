@@ -8,7 +8,7 @@
     - name: Languages
       value: English, French
     - name: Code
-      value: Matlab, Pyhon, LaTeX
+      value: Matlab, Python, LaTeX
     - name: Contact
       value: ivan.hasenohr 'at' math.cnrs 'dot' fr
 
@@ -39,6 +39,7 @@
         - Control theory
         - Computer-assisted proofs
         - Reachability analysis
+        - Numerical analysis
         - Under the supervision of Camille Pouchol, Yannick Privat and Christophe Zhang
     - title: Research Internship
       institution: MAP5, Université Paris Cité
@@ -75,6 +76,8 @@
   type: time_table
   contents:
     - title: Member of the Board of the <a href = https://map5.mi.parisdescartes.fr/> MAP5 Laboratory</a>
+      year: 2024-2025
+    - title: Researcher associate to two <a href = https://mathenjeans.fr/> MATh.en.JEANS</a> high school workshops
       year: 2024-2025
     - title: Co-organiser of the <a href = https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-des-ephemeres/> PhD Student Seminar</a> at MAP5
       year: 2023-2024

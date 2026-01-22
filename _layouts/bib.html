@@ -121,10 +121,17 @@
             {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
           {%- endif -%}
           <div class="periodical">
-            {{ entrytype | strip }}
-            {%- if entrymonth or entryyear -%}
-              <br>
-              <span class="date">{{ entrymonth | strip }} {{ entryyear | strip }}</span>
+            {%- assign entrytype_str = entrytype | strip -%}
+            {%- if entrytype_str != "" -%}
+              {{ entrytype_str }}
+              {%- if entrymonth or entryyear -%}
+                <br>
+                <span class="date">{{ entrymonth | strip }} {{ entryyear | strip }}</span>
+              {%- endif -%}
+            {%- else -%}
+              {%- if entrymonth or entryyear -%}
+                <span class="date">{{ entrymonth | strip }} {{ entryyear | strip }}</span>
+              {%- endif -%}
             {%- endif -%}
           </div>
         {%- endif %}
