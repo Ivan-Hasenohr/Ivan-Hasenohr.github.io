@@ -93,6 +93,14 @@
     - Certified computing
     - Inverse problems
 
+- title: Teaching
+  type: list
+  contents: 
+    - title: Mathematics for 1st year Bachelor students
+      year: 2024-2025
+    - title: Analysis for 2nd year Bachelor students
+      year: 2022-2024
+
 - title: Other Interests
   type: list
   contents:
