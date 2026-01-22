@@ -72,26 +72,18 @@
       institution: Mathematics and Computer Sciences, Sorbonne Université, France
       year: 2020
 
-- title: Responsibilities
+- title: Responsibilities & volunteering
   type: time_table
   contents:
     - title: Member of the Board of the <a href = https://map5.mi.parisdescartes.fr/> MAP5 Laboratory</a>
       year: 2024-2025
-    - title: Researcher associate to two <a href = https://mathenjeans.fr/> MATh.en.JEANS</a> high school workshops
+    - title: Associate researcher to two <a href = https://mathenjeans.fr/> MATh.en.JEANS</a> high school workshops
       year: 2024-2025
     - title: Co-organiser of the <a href = https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-des-ephemeres/> PhD Student Seminar</a> at MAP5
       year: 2023-2024
     - title: Co-oganiser of the <a href = https://map5.mi.parisdescartes.fr/events/journee-pour-les-debouches-dun-doctorat-en-mathematiques/> Journée sur les débouchés d'un doctorat en Mathématiques </a>
       institution: MAP5, Université Paris Cité
       year: June 3rd, 2023
-
-- title: Academic Interests
-  type: list
-  contents:
-    - Control theory
-    - Fenchel duality
-    - Certified computing
-    - Inverse problems
 
 - title: Teaching
   type: time_table
@@ -100,6 +92,14 @@
       year: 2024-2025
     - title: Analysis for 2nd year Bachelor students
       year: 2022-2024
+
+- title: Academic Interests
+  type: list
+  contents:
+    - Control theory
+    - Fenchel duality
+    - Certified computing
+    - Inverse problems
 
 - title: Other Interests
   type: list
