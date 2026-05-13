@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: December 18th, 2000
     - name: Languages
-      value: 'English, French, <span style="font-size: 8px;">German</span>'
+      value: 'English, French, <span style="font-size: 10px;">German</span>'
     - name: Code
       value: Matlab, Python, LaTeX
     - name: Contact
