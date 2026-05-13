@@ -14,6 +14,8 @@ nav_order: 6
   *Computer-assisted Proofs of Non-Reachability for Linear Parabolic Control Problems with Bounded Constraints*, 
   [slides](https://ivan-hasenohr.github.io/assets/pdf/260508_ANAD.pdf).
 
+<br>
+
 
 #### French conferences & workhops:
 
