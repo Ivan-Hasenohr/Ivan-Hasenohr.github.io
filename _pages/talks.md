@@ -7,8 +7,15 @@ nav: true
 nav_order: 6
 ---
 
+#### European conferences (France excluded):
 
-#### French conferences:
+- 08/05/2026 Austrian Numerical Analysis Day, Graz (Austria)
+
+  *Computer-assisted Proofs of Non-Reachability for Linear Parabolic Control Problems with Bounded Constraints*, 
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/260508_ANAD.pdf).
+
+
+#### French conferences & workhops:
 
 - 02/06/2025 12ème Biennale SMAI, Carcans-Maubuisson
 
@@ -28,11 +35,7 @@ nav_order: 6
 - 25/09/2023 Congrès des Jeunes Chercheurs en Mathématiques Appliquées, Centrale-Supélec, Gif-Sur-Yvette
   
   *Rigorous approximations of reachable sets*, 
-  [poster](https://ivan-hasenohr.github.io/assets/pdf/230925_CJC_MA_poster.pdf).
-
-<br>
-
-#### Workshops:
+  [poster](https://ivan-hasenohr.github.io/assets/pdf/230925_CJC_MA_poster.pdf),
 
 - 19/06/2023 Workshop de l'ANR TRECOS, Rennes
 
@@ -74,7 +77,7 @@ nav_order: 6
 - 20/11/2025 PhD defence, MAP5, Paris
 
   *Preuves assistées par ordinateur pour l'analyse d'atteignabilité de problèmes de contrôle linéaires sous contraintes bornées*, 
-  [slides (french)](https://ivan-hasenohr.github.io/assets/pdf/251120_PhD_defence.pdf),
+  [slides (french)](https://ivan-hasenohr.github.io/assets/pdf/251120_PhD_defence.pdf), [PhD thesis (french & english)](https://ivan-hasenohr.github.io/assets/pdf/251120_PhD_thesis.pdf),
 
 - 21/04/2023 Semaine d'Etudes Mathématiques et Entreprises, AMIES, Lille, 
 

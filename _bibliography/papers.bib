@@ -1,3 +1,20 @@
+@phdthesis{hasenohr:tel-05620744,
+  TITLE = {{Computer-assisted proofs of reachability analysis for linear control systems under bounded constraints}},
+  AUTHOR = {Hasenohr, Ivan},
+  URL = {https://theses.hal.science/tel-05620744},
+  NUMBER = {2025UNIP7221},
+  SCHOOL = {{Universit{\'e} Paris Cit{\'e}}},
+  YEAR = {2025},
+  MONTH = Nov,
+  KEYWORDS = {Interval arithmetic ; Computer-Assisted proofs ; Finite- and infinite-Dimensional control systems ; Reachability analysis ; Bounded control constraints ; Linear control systems ; Arithm{\'e}tique d'intervalles ; Preuves assist{\'e}es par ordinateur ; Syst{\`e}mes de dimension finie et infinie ; Atteignabilit{\'e} ; Contr{\^o}le sous contraintes born{\'e}es ; Probl{\`e}mes de contr{\^o}le lin{\'e}aires},
+  TYPE = {Theses},
+  HAL_ID = {tel-05620744},
+  HAL_VERSION = {v1},
+  bibtex_show = {true},
+  PDF = {https://ivan-hasenohr.github.io/assets/pdf/251120_PhD_thesis.pdf}, 
+  abstract = {This thesis is devoted to the reachability of linear control problems subject to bounded control constraints. Using a convex-analytic approach and supporting hyperplanes, we introduce a functional J whose nonnegativity on the state space is equivalent to the reachability of a target set. One key property of J is that it depends exclusively on control constraints and on the solution to the adjoint problem. By means of the proposed functional, we mainly focus on proving the non-reachability of targets, which amounts to finding points at which J is negative. We introduce a computer-assisted method relying on the discretisation and minimisation of J. First, a discretised proxy is minimised to find a negative point. We then bound the discretisation errors using new discretisation-error bounds with explicit constants, and rounding errors thanks to interval arithmetic. Ultimately, this ensures the original functional J's value is enclosed in a computed interval, whose negativity delivers a computer-assisted proof of the non-reachability of the chosen target. We prove the effectiveness of the method both in the finite- and infinite-dimensional setting: in a first part, we formalise the method and develop discretisation-error bounds for a wide array of finite-dimensional systems and control constraints, and apply it to various examples, providing non-reachability proofs and lower bounds of minimal reachability times. In a second part, we extend the method to the control of linear parabolic equations, with the 1D heat equation and variants thereof as the prime example. By finely estimating constants associated to discretisation errors, we arrive at proofs of non-reachability for targets under realistic constraints. This functional can also be used to prove positive results of reachability: we present ongoing work aiming to compute verified under- and over-approximations of the reachable set.}
+}
+
 @unpublished{hasenohr:hal-05357694,
   TITLE = {{Computer-assisted proofs of non-reachability for linear parabolic PDEs under bounded control constraints}},
   AUTHOR = {Hasenohr, Ivan and Pouchol, Camille and Privat, Yannick and Zhang, Christophe},
