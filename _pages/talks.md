@@ -19,7 +19,7 @@ nav_order: 6
 
 #### French conferences & workhops:
 
-- 04/06/2026 Congrès National d'Analyse Numérique, Saint-Jacut-de-la-Mer. 
+- 04/06/2026 Congrès National d'Analyse Numérique, Saint-Jacut-de-la-Mer
 
   *Online parameter reconstruction of a bilinear control problem*, 
   [slides](https://ivan-hasenohr.github.io/assets/pdf/260604_CANUM.pdf),
@@ -34,7 +34,7 @@ nav_order: 6
   *Computer-assisted proofs of non-reachability for linear parabolic control systems*, 
   [slides](https://ivan-hasenohr.github.io/assets/pdf/241028_CJC_MA.pdf),
 
-- 31/05/2024 Congrès National d'Analyse Numérique, Ile de Ré. 
+- 31/05/2024 Congrès National d'Analyse Numérique, Ile de Ré 
 
   *Preuves assistées par ordinateur de non-atteignabilité pour des systèmes linéaires de contrôle en dimension finie*, 
   [slides (french)](https://ivan-hasenohr.github.io/assets/pdf/240531_CANUM.pdf),
