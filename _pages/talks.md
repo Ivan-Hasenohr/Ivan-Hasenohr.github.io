@@ -9,6 +9,12 @@ nav_order: 6
 
 #### European conferences (France excluded):
 
+- 13-15/07/2026 Foundations of Computational Mathematics 2026, Vienna (Austria)
+
+  *Online parameter estimation for a bilinear control problem*,
+  [poster](https://ivan-hasenohr.github.io/assets/pdf/260713_FoCM_Poster.pdf),
+
+
 - 22/06/2026 17th French-Romanian Colloquium on Applied Mathematics, Nancy (France)
 
   *Online parameter estimation for a bilinear control problem*, 
