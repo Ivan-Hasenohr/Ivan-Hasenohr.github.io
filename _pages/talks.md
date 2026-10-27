@@ -9,6 +9,16 @@ nav_order: 6
 
 #### European conferences (France excluded):
 
+- 01/10/2026 5th Workshop on Stability and Control of Infinite-Dimensional Systems (SCINDIS), Bayreuth (Germany),
+
+  *Computer-assisted proofs of non-reachability for linear parabolic control problems*,
+  [poster](https://ivan-hasenohr.github.io/assets/pdf/261001_SCINDIS.pdf),
+
+- 10/09/2026 IMA Conference on inverse problems from theory to application, London (UK),
+
+  *Derivative-enhanced online estimation from partial observations*,
+  [poster](https://ivan-hasenohr.github.io/assets/pdf/260910_IMA.pdf),
+
 - 13-15/07/2026 Foundations of Computational Mathematics 2026, Vienna (Austria)
 
   *Online parameter estimation for a bilinear control problem*,
@@ -64,7 +74,12 @@ nav_order: 6
 
 #### Team & PhD seminars:
 
-- 28/04/2025 MR-DYNAMO Seminar, University of Graz (Austria)
+- 16/09/2025 MR-DYNAMO 2nd SFB Status Seminar, Semmering (Austria),
+
+  *Online state and parameter estimation for Bloch-Torrey dynamics*,
+  [slides](https://ivan-hasenohr.github.io/assets/pdf/260916_SFB.pdf),
+
+- 28/04/2025 MR-DYNAMO Seminar, University of Graz (Austria),
 
   *Computer-Assisted Proofs of Non-Reachability for Linear Parabolic Control Problems with Bounded Constraints*, 
   [slides](https://ivan-hasenohr.github.io/assets/pdf/250428_Graz.pdf),
