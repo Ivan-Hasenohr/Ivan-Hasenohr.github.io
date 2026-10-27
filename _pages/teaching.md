@@ -8,6 +8,11 @@ nav_order: 5
 ---
 
 
+### Klagenfurt University:
+
+- Analysis 1 for Engineers exercise class (2026 Winter Semester)
+
+
 ### Université Paris-Cité (chargé de TDs)
 
 
