@@ -1,30 +1,16 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
+permalink: /code/
+title: code
 description: A quick overview of my open-source contributions.
 nav: true
 nav_order: 3
 ---
 
-## GitHub users
+Selection of my open-source contributions at [https://github.com/ivan-hasenohr](https://github.com/ivan-hasenohr):
 
-{% if site.data.repositories.github_users %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.html username=user %}
-  {% endfor %}
+<div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin-bottom: 10px; text-align: center;">
+	<img src="assets/img/heat-nonreachability.pdf" alt="heat-nonreachability" style="max-width: 100%;">
+	<p><a href="https://github.com/ivan-hasenohr/heat-nonreachability">heat-nonreachability</a>: Computer-assisted proofs of non-reachability for linear parabolic PDEs.</p>
 </div>
-{% endif %}
 
----
-
-## GitHub Repositories
-
-{% if site.data.repositories.github_repos %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.html repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
