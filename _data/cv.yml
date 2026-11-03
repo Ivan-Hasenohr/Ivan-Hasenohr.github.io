@@ -18,7 +18,9 @@
     - title: Post-Doctoral position
       institution: Alpen-Adria University, Klagenfurt, Austria
       year: 2026-
-      description: Inverse problems for MRI
+      description: Inverse problems for MRI:
+        - Online PDE parameter estimation
+        - Optimal input design
     - title: PhD 
       institution: MAP5, Université Paris-Cité, France
       year: 2022-2025
@@ -85,9 +87,11 @@
       institution: MAP5, Université Paris Cité
       year: June 3rd, 2023
 
-- title: Teaching
+- title: Teaching (Exercise classes)
   type: time_table
   contents: 
+    - title: Analysis for 1st year Engineering students
+      year: 2026-2027
     - title: Mathematics for 1st year Bachelor students
       year: 2024-2025
     - title: Analysis for 2nd year Bachelor students
@@ -100,6 +104,7 @@
     - Fenchel duality
     - Certified computing
     - Inverse problems
+    - Parameter estimation
 
 - title: Other Interests
   type: list
@@ -107,4 +112,4 @@
     - Music (piano, oboe, choirs)
     - Reading (SF, Litterature)
     - Traveling 
-    - French (and Austrian?) cheese
+    - Cheese
