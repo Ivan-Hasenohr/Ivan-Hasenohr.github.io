@@ -18,7 +18,8 @@
     - title: Post-Doctoral position
       institution: Alpen-Adria University, Klagenfurt, Austria
       year: 2026-
-      description: Inverse problems for MRI:
+      description: 
+        - Inverse problems for MRI
         - Online PDE parameter estimation
         - Optimal input design
     - title: PhD 
